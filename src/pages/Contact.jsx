@@ -19,7 +19,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['ommphoto143@gmail']
+      details: ['quickfixpro977@gmail']
     },
     {
       icon: Clock,
