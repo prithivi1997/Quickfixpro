@@ -36,7 +36,7 @@ const Footer = () => {
               <Phone className="w-5 h-5 mr-2 flex-shrink-0" /> 9337249713
             </li>
             <li className="flex items-center">
-              <Mail className="w-5 h-5 mr-2 flex-shrink-0" /> ommphoto143@gmail
+              <Mail className="w-5 h-5 mr-2 flex-shrink-0" /> quickfixpro977@gmail
             </li>
             <li className="flex items-start">
               <MapPin className="w-5 h-5 mr-2 mt-0.5 flex-shrink-0" /> 
