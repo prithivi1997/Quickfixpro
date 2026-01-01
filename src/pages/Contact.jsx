@@ -9,7 +9,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Visit Us',
-      details: ['A/5, Near Angana Resturant, Shahid Nagar, Bhubaneswar']
+      details: ['A/15, Near Angana Resturant, Shahid Nagar, Bhubaneswar']
     },
     {
       icon: Phone,
