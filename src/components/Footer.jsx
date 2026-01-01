@@ -40,7 +40,7 @@ const Footer = () => {
             </li>
             <li className="flex items-start">
               <MapPin className="w-5 h-5 mr-2 mt-0.5 flex-shrink-0" /> 
-              <span>A/5, Near Angana Restaurant, Shahid Nagar, Bhubaneswar</span>
+              <span>A/15, Near Angana Restaurant, Shahid Nagar, Bhubaneswar</span>
             </li>
           </ul>
         </div>
